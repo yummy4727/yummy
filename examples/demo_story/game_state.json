@@ -1,0 +1,16 @@
+{
+  "chapter": 1,
+  "weather": "stormy",
+  "player_name": "玩家未设定",
+  "affection": {
+    "count": 0,
+    "butler": 0,
+    "lady_wilmot": 0
+  },
+  "inventory": ["邀请函"],
+  "clues_unlocked": [],
+  "flags": {
+    "seen_secret_door": false,
+    "talked_to_chef": false
+  }
+}
