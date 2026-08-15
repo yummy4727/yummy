@@ -1,0 +1,11 @@
+{
+  "id": "demo-0001",
+  "title": "消失的晚宴（示例）",
+  "author": "演示作者",
+  "version": "1.0.0",
+  "tags": ["悬疑", "推理", "示例"],
+  "description": "一场暴雨夜的宴会，一具离奇的尸体……",
+  "rating": "teen",
+  "parent_id": null,
+  "initial_state": "game_state.json"
+}

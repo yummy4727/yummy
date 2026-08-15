@@ -13,7 +13,7 @@ venv/
 htmlcov/
 
 # 本地运行数据（API Key 等）
-config.json
+/config.json
 *.local.json
 
 # 运行时解压产物（loader 将剧本 zip 解压到此处）
